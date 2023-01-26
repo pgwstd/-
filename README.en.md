@@ -4,7 +4,7 @@
 基于vue2创作的学生选课系统
 
 #### 项目架构
-
+本项目采用vue2+vue-router+vuex+axios+element-ui+webpack+es6+less等技术
 
 #### 如何运行
 
@@ -14,9 +14,12 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  本项目使用了element-ui组件库，使用前请先安装element-ui
+2.  本项目使用了axios，使用前请先安装axios
+3.  本项目使用了vue-router，使用前请先安装vue-router
+4.  本项目使用了vuex，使用前请先安装vuex
+5.  本项目使用了less，使用前请先安装less
+6.  本项目使用了webpack，使用前请先安装webpack
 
 #### 参与贡献
 
