@@ -4,27 +4,28 @@
 基于vue2创作的学生选课系统
 
 #### 项目架构
-Software architecture description
 
-#### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
+#### 如何运行
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### Contribution
+#### 使用说明
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  xxxx
+2.  xxxx
+3.  xxxx
 
+#### 参与贡献
+
+1.  Fork 本仓库
+2. 新建 Feat_xxx 分支
+3. 提交代码
+4. 新建 Pull Request
+5. 代码审核通过后，合并到master分支
+6. 代码合并后，删除Feat_xxx分支
 
 #### Gitee Feature
 
