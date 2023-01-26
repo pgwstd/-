@@ -1,9 +1,9 @@
 # 选课系统
 
-#### Description
+#### 项目描述
 基于vue2创作的学生选课系统
 
-#### Software Architecture
+#### 项目架构
 Software architecture description
 
 #### Installation
