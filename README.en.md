@@ -4,8 +4,8 @@
 基于vue2创作的学生选课系统
 
 #### 项目架构
-本项目采用vue2+vue-router+vuex+axios+element-ui+webpack+es6+less等技术
-本项目只是一个自己学习vue的对自己总结的一个小项目，并没有后端数据交互，数据部分都是在前端完成的
+1. 本项目采用vue2+vue-router+vuex+axios+element-ui+webpack+es6+less等技术
+2. 本项目只是一个自己学习vue的对自己总结的一个小项目，并没有后端数据交互，数据部分都是在前端完成的
 
 #### 如何运行
 
